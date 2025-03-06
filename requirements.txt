@@ -1,0 +1,9 @@
+torch==2.2.1
+numpy==1.26.4
+torchvision==0.17.1
+tqdm==4.66.2
+tensorboard==2.16.2
+pandas==2.2.1
+scipy==1.14.0
+matplotlib==3.5.2
+tikzplotlib==0.9.8

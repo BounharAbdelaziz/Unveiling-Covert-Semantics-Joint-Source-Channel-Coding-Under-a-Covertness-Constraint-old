@@ -1,0 +1,1 @@
+"""This package encompasses option designed for both the training and testing phases, along with fundamental (base) options utilized in both these contexts."""
